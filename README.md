@@ -1,4 +1,6 @@
-=======
+<h1 align="center"> Passwords </h1>
+
+Projeto com foco em criar senhas personalizadas e armazena-las
 
 # Pontos a serem desenvolvidos.
 
@@ -13,4 +15,7 @@ Conseguir escolher quantos caracteres, se vão ter números, letras e/ou caracte
 4. Conseguir consultar a senha do serviço.
 
 5. Fazer uma tela simples para mandar as informações da senha e consultar a senha do serviço.
-   > > > > > > > 3fddeff (Read.md)
+
+<h4 align="center"> 
+    :construction:  Projeto em construção  :construction:
+</h4>
